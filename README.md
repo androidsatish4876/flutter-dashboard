@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Video](introvideo.mp4)
 
 ![Image](screenshot.png)
 
