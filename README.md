@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-https://github.com/androidsatish4876/flutter-dashboard/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202023-07-11%20at%2017.21.52.png
+![Image](Simulator Screen Shot - iPhone 13 - 2023-07-11 at 17.21.52.png)
+
 
 This project is a starting point for a Flutter application.
 
