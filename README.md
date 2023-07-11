@@ -4,8 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![Image](/Simulator Screen Shot - iPhone 13 - 2023-07-11 at 17.21.52.png)
-![Image](best_flutter_ui_templates/assets/introduction_animation/introduction_animation.png)
+![Image](screenshot.png)
 
 
 This project is a starting point for a Flutter application.
